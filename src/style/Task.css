@@ -1,0 +1,28 @@
+
+.task_area {
+    width: 80%;
+    margin: auto;
+    border: solid 1px #000;
+    margin-bottom: 2rem;
+}
+
+.row_layout {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.task_info {
+    border-top: solid 1px #000;
+    padding: 1.5rem 3rem;
+}
+
+.task_note {
+    font-size: 20px;
+    color: #333333;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,24 @@
+
+.newtask_container {
+    border-right: solid 1px #000;
+    width: 40%;
+}
+
+.tasklist_container {
+    width: 60%;
+    position: relative;
+}
+
+.tasklist_body {
+    overflow-y: scroll;
+    margin-bottom: 1rem;
+    height: 60vh
+}
+.bulkaction_container {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    border-top: solid 1px #000;
+    background: #E0E0E0;
+}
